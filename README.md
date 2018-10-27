@@ -1,3 +1,1 @@
-# malay_word_vectors
-# malay_word_vectors
-# malay_word_vectors
+Malay Word Vectors (word2vec on Malay Wikipedia - http://ms.wikipedia.org)
