@@ -1,0 +1,13 @@
+{
+	"embeddings": [
+	    {
+		          "tensorName": "My tensor",
+			        "tensorShape": [
+					        15838,
+						        100
+							      ],
+							            "tensorPath": "https://github.com/chi-yan/malay_word_vectors/raw/master/vectors.tsv",
+								          "metadataPath": "https://github.com/chi-yan/malay_word_vectors/raw/master/words.tsv"
+									      }
+									        ]
+										}
